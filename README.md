@@ -1,5 +1,5 @@
-# VeriSmart-benchmarks
-VeriSmart is a safety analyzer for Ethereum smart contracts written in Solidity.
+# Smart-benchmarks
+Smart is a safety analyzer for Ethereum smart contracts written in Solidity.
 This repository contains dataset that we used for experiments in our paper.
 
 This repository has been developed and maintained by [Software Analysis Laboratory](http://prl.korea.ac.kr/~pronto/home/) at Korea University.
