@@ -34,4 +34,4 @@ The contracts whose names start with ``0x`` and end with ``_N.sol`` (where ``N``
 
 
 ## Questions
-If you have any questions, please submit issues in this repository, or send an email to sunbeom_so@korea.ac.kr.
+If you have any questions, please submit issues in this repository, or send an email to rsharma0x00@gmail.com
